@@ -1,0 +1,62 @@
+class AppImages {
+  static String _pathImages(String name) => 'assets/images/$name.png';
+  static String _pathIcons(String name) => 'assets/icons/$name.png';
+
+  static final String horizontalLogo = _pathImages("logo");
+  static final String bankName = _pathImages("bank_name");
+  static final String boyAvatar = _pathImages("student_logo");
+  static const String placeholder = 'assets/images/placeholder.jpg';
+  static const String placeholder1 = 'assets/images/placeholder1.png';
+  static const String ryade = 'assets/images/ryade.png';
+  static const String bg = 'assets/images/bg.png';
+
+  static final String home = _pathIcons("home");
+  static final String add = _pathIcons("add");
+  static final String group = _pathIcons("group");
+  static final String email = _pathIcons("email");
+  static final String profile = _pathIcons("customer");
+  static final String filter = _pathIcons("filter");
+  static final String search = _pathIcons("search");
+  static final String menu = _pathIcons("menu");
+  static final String offices = _pathIcons("office");
+  static final String lands = _pathIcons("land_sales");
+  static final String apartments = _pathIcons("apartment");
+  static final String villa = _pathIcons("villa");
+  static final String back = _pathIcons("back");
+  static final String send = _pathIcons("send");
+  static final String width = _pathIcons("width");
+  static final String screenWidth = _pathIcons("screen_width");
+  static final String more = _pathIcons("more");
+  static final String kitchen = _pathIcons("room");
+  static final String bed = _pathIcons("bed");
+  static final String bathroom = _pathIcons("bathroom");
+  static final String kind = _pathIcons("kind");
+  static final String auction = _pathIcons("auction");
+  static final String location = _pathIcons("location");
+  static final String timer = _pathIcons("timer");
+  static final String call = _pathIcons("call");
+  static final String whatsApp = _pathIcons("whatsapp");
+  static final String user = _pathIcons("user");
+  static final String downButton = _pathIcons("down_button");
+  static final String demand = _pathIcons("demand");
+  static final String calendar = _pathIcons("calendar");
+  static final String minus = _pathIcons("minus");
+  static final String share = _pathIcons("share");
+  static final String heart = _pathIcons("heart");
+  static final String history = _pathIcons("history");
+  static final String special = _pathIcons("special");
+  static final String flag = _pathIcons("flag");
+  static final String dividerLeft = _pathIcons("divider_left");
+  static final String dividerRight = _pathIcons("divider_right");
+  static final String sms = _pathIcons("sms");
+  static final String google = _pathIcons("google");
+  static final String instagram = _pathImages("instagram");
+  static final String tiktok = _pathImages("tiktok");
+  static final String xLogo = _pathImages("xLogo");
+  static final String notifications_icon = _pathImages("notification_icon");
+  static final String apple = _pathIcons("apple");
+  static final String facebook = _pathIcons("facebook");
+
+  static final String snap = _pathIcons("snap");
+  static final String linked = _pathIcons("linkedin");
+}

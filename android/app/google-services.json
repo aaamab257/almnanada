@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470751147840",
+    "project_id": "almanada-49c1c",
+    "storage_bucket": "almanada-49c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470751147840:android:c9f9c7d806ee5107b6aca5",
+        "android_client_info": {
+          "package_name": "com.perfect.almanada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfMHI1Y8ssOPPs3bMNhJzxeJ9QwCcLlUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
